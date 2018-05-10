@@ -151,6 +151,7 @@ angular.module('wasabi', [
         delete $httpProvider.defaults.headers.common['X-Requested-With'];
     }])
 
+    /* changes */
     .constant('AUTH_EVENTS', {
         loginSuccess: 'auth-login-success',
         loginFailed: 'auth-login-failed',
