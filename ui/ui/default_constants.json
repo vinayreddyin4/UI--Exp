@@ -1,0 +1,9 @@
+{
+    "supportEmail": "",
+    "authnType": "basic",
+    "noAuthRedirect": "",
+    "ssoLogoutRedirect": "",
+    "apiAuthInfo": "",
+    "apiHostBaseUrlValue": "DEFAULT",
+    "downloadBaseUrlValue": "DEFAULT"
+}
